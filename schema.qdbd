@@ -263,6 +263,7 @@ SegmentNumber
 SegmentAlgorithmType
 SegmentAlgorithmName
 SegmentLabel
+SegmentDescription
 AnatomicRegionSequence_CodeValue
 AnatomicRegionSequence_CodingSchemeDesignator
 AnatomicRegionSequence_CodeMeaning
